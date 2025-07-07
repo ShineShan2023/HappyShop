@@ -13,5 +13,12 @@ After opening the project in IntelliJ:
 
 - Run `Launcher` each time you want to start the system.
 
+## 📌 Summary
+
+✅ JavaFX project  
+✅ Developed in IntelliJ with Maven  
+✅ Designed for CI553 coursework  
+✅ Easy setup and clean structure
+
 
 
