@@ -2,7 +2,7 @@ package ci553.happyshop.storageAccess;
 
 /**
  * The DatabaseRWFactory class centralizes database configuration and object creation.
- * It acts as a factory pattern to provide flexible instantiation of the DatabaseRW interface.
+ * It acts as a factory to provide flexible instantiation of the DatabaseRW interface.
  *
  * Responsibilities:
  * - Holds the database URL used to connect to the database.
