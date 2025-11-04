@@ -21,7 +21,7 @@ package ci553.happyshop.utility;
  *  - Cleaner syntax: Avoids unnecessary boilerplate (constructors, getters, etc.).
  */
 
-public record UIStyle() {
+public class UIStyle {
 
     public static final int customerWinWidth = 600;
     public static final int customerWinHeight = 300;
